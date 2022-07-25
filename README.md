@@ -8,9 +8,9 @@
 ![line](./img/line.gif)
 
 ### I am Full Stack software engineer/developer
-Hi, I'm [Satyam Sharma](https://samwfelice.github.io/Portfolio/), a Full Stack Developer from India with a passion for music and various other activites. I'm currently a student at Microverse where I am learning to code with people all around the world and the same time improving my team work, professional and communication skills.
+Hi, I'm [Satyam Sharma](https://samwfelice.github.io/Portfolio/), a Full Stack Developer from India with a passion for music and various other activites. I'm currently a student at Microverse where I am learning to code with people all around the world and at the same time improving my team work, professional and communication skills.
 
-Technologies these days is exponentially growing and I intend to be a part of it, to contribute and that is my mission. This is what drives me everyday to switch on my computer and start coding!
+In this era, technology industry is growing exponentially and I intend to be a part of it and to contribute, that is my mission. This is what drives me everyday to switch on my computer and start coding!
 
 ### Languages and Tools:
 
@@ -30,11 +30,7 @@ Technologies these days is exponentially growing and I intend to be a part of it
 
 <br>
 
-| <a href="https://github.com/killy10o10"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=killy10o10&hide_border=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&border_radius=10" alt="Quami's Github Stats" /></a> | <a href="https://github.com/killy10o10"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killy10o10&hide_border=true&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_radius=10&card_width=260" /></a> | 
+| <a href="https://github.com/samWfelice"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=samWfelice&hide_border=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&border_radius=10" alt="Sam's Github Stats" /></a> | <a href="https://github.com/samWfelice"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samWfelice&hide_border=true&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_radius=10&card_width=360" /></a> | 
 | ------------- | ------------- |
 <br>
 <br>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=samWfelice) 
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/NickEmma.gif?z=6)](https://github4life.herokuapp.com/samWfelice)
