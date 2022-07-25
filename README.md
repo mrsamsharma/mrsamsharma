@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-![Profile views](https://gpvc.arturio.dev/samWfelice) 
+![Profile views](https://gpvc.arturio.dev/mrsamsharma) 
 
 <h1 align="center">Hi 👋, I'm Satyam Sharma</h1>
 
@@ -30,7 +30,7 @@ In this era, technology industry is growing exponentially and I intend to be a p
 
 <br>
 
-| <a href="https://github.com/samWfelice"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=samWfelice&hide_border=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&border_radius=10" alt="Sam's Github Stats" /></a> | <a href="https://github.com/samWfelice"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samWfelice&hide_border=true&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_radius=10&card_width=360" /></a> | 
+| <a href="https://github.com/mrsamsharma"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsamsharma&hide_border=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&border_radius=10" alt="Sam's Github Stats" /></a> | <a href="https://github.com/mrsamsharma"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsamsharma&hide_border=true&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_radius=10&card_width=360" /></a> | 
 | ------------- | ------------- |
 <br>
 <br>
