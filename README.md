@@ -3,12 +3,12 @@
 
 <h1 align="center">Hi 👋, I'm Satyam Sharma</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Sam+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Sam+here...;I'm+a+Full-Stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
 
 ![line](./img/line.gif)
 
-### I am Full Stack software engineer/developer
-Hi, I'm [Satyam Sharma](https://samwfelice.github.io/Portfolio/), a Full Stack Developer from India with a passion for music and various other activites. I'm currently a student at Microverse where I am learning to code with people all around the world and at the same time improving my team work, professional and communication skills.
+### I am Full-Stack Software Engineer/Developer
+Hi, I'm [Satyam Sharma](https://samwfelice.github.io/Portfolio/), a Full-Stack Developer from India with a passion for music and various other activites. I'm currently a student at Microverse where I am learning to code with people all around the world and at the same time improving my team work, professional and communication skills.
 
 In this era, technology industry is growing exponentially and I intend to be a part of it and to contribute, that is my mission. This is what drives me everyday to switch on my computer and start coding!
 
