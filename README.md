@@ -26,7 +26,14 @@ Technologies these days is exponentially growing and I intend to be a part of it
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.com)
 
 <br/><br/>
-<a href="https://github.com/samWfelice/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NickEmma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="samWfleice's github stats" /></a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmma&layout=compact&theme=buefy&hide_border=true" /></a>|
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+| <a href="https://github.com/killy10o10"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=killy10o10&hide_border=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&border_radius=10" alt="Quami's Github Stats" /></a> | <a href="https://github.com/killy10o10"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killy10o10&hide_border=true&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_radius=10&card_width=260" /></a> | 
+| ------------- | ------------- |
+<br>
+<br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=samWfelice) 
 
